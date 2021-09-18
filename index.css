@@ -217,6 +217,9 @@ body {
   border: 1px solid #e2e2e2;
   border-radius: 6px;
 }
+.container .page .transactions .list .list-item .trans-amount:hover {
+  box-shadow: 0 0 10px #eee;
+}
 .container .page .transactions .list .list-item .trans-amount img {
   width: 18px;
   height: 18px;

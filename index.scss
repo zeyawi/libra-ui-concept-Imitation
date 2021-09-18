@@ -218,6 +218,9 @@ body{
             cursor: pointer;
             border: 1px solid #e2e2e2;
             border-radius: 6px;
+            &:hover{
+              box-shadow: 0 0 10px #eee;
+            }
             img{
               width: 18px;
               height: 18px;
